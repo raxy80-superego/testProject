@@ -16,4 +16,22 @@ body {
 .photo img {
 	max-width: 100%;
 	display: block;
+
+footer {
+	width: 100%;
+	height: 30px;
+	background: #EDF5CB;
+}
+footer ul li {
+	list-style: none;
+	display: inline-block;
+	margin-right: 20px;
+}
+footer ul li a {
+	text-decoration: none;
+	color: #666666;
+	line-height: 1.7;
+}
+footer ul li a:hover {
+	border-bottom: 1px solid #777;
 }
