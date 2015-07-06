@@ -35,3 +35,13 @@ footer ul li a {
 footer ul li a:hover {
 	border-bottom: 1px solid #777;
 }
+.btn {
+	padding: 5px 8px;
+	background: #EDF5CB;
+	border-radius: 8px;
+	color: #666666;
+	text-decoration: none;
+}
+.btn:hover {
+	border: 1px solid #3A573C;
+}
