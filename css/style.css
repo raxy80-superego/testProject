@@ -11,6 +11,13 @@ header {
 	top: 10px;
 	right: 10px;
 }
+.search label {
+	color: #777;
+}
+.search input {
+	border-radius: 5px;
+	border: 2px solid #EDF5CB;
+}
 .holder {
 	margin: 20px 0;
 	text-decoration: underline;
